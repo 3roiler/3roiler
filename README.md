@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Paul 👋
 
-<!--
-**3roiler/3roiler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Softwareentwicklung & DevOps  
+Ich baue Plattformen mit Fokus auf **.NET, Kubernetes, GitOps und Cloud-Native**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Tech-Stack
+
+### 💻 Sprachen
+C#, TypeScript/JavaScript, SQL (PostgreSQL, MS-SQL), Python, C/C++, asm8086, Java
+
+### 🖥️ Frameworks & Plattformen
+- **.NET / .NET Framework**  
+- **Desktop:** WPF, WinForms, MAUI  
+- **Web:** ASP.NET Core, React  
+
+### 🔧 Infrastruktur & DevOps
+Kubernetes, Terraform, FluxCD, Helm, Docker, GitLab, Jenkins, Prometheus, Grafana, Alertmanager
+
+### 🗂️ Sonstiges
+Obsidian (Docs), VS Code (DevContainers)
+
+---
+
+## 📚 Interessen
+- Infrastruktur automatisieren (Immutable Setups, Reproduzierbarkeit)  
+- Basteln mit Hardware: Meshtastic, Embedded-Lösungen  
+- Videoschnitt (GoPro, Olive), Linux-Customizing (Zsh, Hyprland)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=3roiler&show_icons=true&theme=tokyonight)
