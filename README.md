@@ -16,7 +16,7 @@ C#, TypeScript/JavaScript, SQL (PostgreSQL, MS-SQL), Python, C/C++, asm8086, Jav
 - **Web:** ASP.NET Core, React  
 
 ### 🔧 Infrastruktur & DevOps
-Kubernetes, Terraform, FluxCD, Helm, Docker, GitLab, Jenkins, Prometheus, Grafana, Alertmanager
+Kubernetes, Terraform, FluxCD, Helm, Docker, GitLab, Jenkins, Prometheus, Grafana, SonarQube, Elasticsearch/Kibana
 
 ### 🗂️ Sonstiges
 Obsidian (Docs), VS Code (DevContainers)
@@ -25,8 +25,7 @@ Obsidian (Docs), VS Code (DevContainers)
 
 ## 📚 Interessen
 - Infrastruktur automatisieren (Immutable Setups, Reproduzierbarkeit)  
-- Basteln mit Hardware: Meshtastic, Embedded-Lösungen  
-- Videoschnitt (GoPro, Olive), Linux-Customizing (Zsh, Hyprland)
+- Basteln mit Hardware: Meshtastic, Embedded-Lösungen, Raspberry Pi, Arduino
 
 ---
 
