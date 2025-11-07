@@ -8,7 +8,7 @@ Ich baue Plattformen mit Fokus auf **.NET, Kubernetes, GitOps und Cloud-Native**
 ## ⚙️ Tech-Stack
 
 ### 💻 Sprachen
-C#, TypeScript/JavaScript, SQL (PostgreSQL, MS-SQL), Python, C/C++, asm8086, Java
+C#, TypeScript/JavaScript, SQL (PostgreSQL, MS-SQL), Python, C/C++, Java
 
 ### 🖥️ Frameworks & Plattformen
 - **.NET / .NET Framework**  
