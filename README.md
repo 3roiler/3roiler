@@ -1,25 +1,14 @@
-# Hi, I'm Paul 👋
+# Hallo :)
 
 Softwareentwicklung & DevOps  
-Ich baue Plattformen mit Fokus auf **.NET, Kubernetes, GitOps und Cloud-Native**.
-
+![Homepage: broiler.dev](https://broiler.dev)
 ---
 
-## ⚙️ Tech-Stack
-
-### 💻 Sprachen
+### Sprachen
 C#, TypeScript/JavaScript, SQL (PostgreSQL, MS-SQL), Python, C/C++, Java
 
-### 🖥️ Frameworks & Plattformen
-- **.NET / .NET Framework**  
-- **Desktop:** WPF, WinForms, MAUI  
-- **Web:** ASP.NET Core, React  
-
-### 🔧 Infrastruktur & DevOps
-Kubernetes, Terraform, FluxCD, Helm, Docker, GitLab, Jenkins, Prometheus, Grafana, SonarQube, Elasticsearch/Kibana
-
-### 🗂️ Sonstiges
-Obsidian (Docs), VS Code (DevContainers)
+### Frameworks, Plattformen & Tools
+- .NET, WPF, WinForms, MAUI, React, FluxCD, Jenkins, SonarQube, Helm, Kubernetes, Terraform, Docker, GitLab, Prometheus, Grafana, Elasticsearch/Kibana, VS Code, Obisidna
 
 ---
 
