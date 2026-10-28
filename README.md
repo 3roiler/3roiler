@@ -1,7 +1,6 @@
 # Hallo :)
 
 Softwareentwicklung & DevOps  
-[Homepage: broiler.dev](https://broiler.dev)
 ---
 
 ### Sprachen
